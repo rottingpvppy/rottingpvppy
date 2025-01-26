@@ -1,5 +1,6 @@
 <div align="center">
   <p>
+    probably on homestuck area<br>
     i'm offtab/afk most of the time.<br>
     please be patient with me.<br>
     cuddles & hides are always welcome.<br>
@@ -8,6 +9,7 @@
   <p>
     please dni if you're a bigot/rude<br>
     person and just wants to cause drama.<br>
+    tcc dni.<br>
     
   </p>
   <div>
