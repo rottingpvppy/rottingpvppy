@@ -12,7 +12,7 @@
   </div>
   <br>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=pawesum&color=961006"></a>
+    <img src="https://komarev.com/ghpvc/?username=pawesum&color=lightgrey"></a>
     <br>
     <br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ofm0zypdx2hk80309arp6jwde&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
