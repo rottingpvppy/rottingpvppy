@@ -1,23 +1,12 @@
 <div align="center">
   <div>
-    <img src="https://files.catbox.moe/mw55ev.png" height="200px"><br>
+    <img src="https://komarev.com/ghpvc/?username=pawesum&label=profile+views&color=907952"><br>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=pawesum&color=lightgrey"><br>
-    <br>
-    <a href="https://rottingpvppy.straw.page/"><img src="https://files.catbox.moe/htjui1.png" height="25px"></a> &  <a><img src="https://files.catbox.moe/xi4vx2.png" height="25px"></a><br>
-    <br>
-    <img src="https://files.catbox.moe/0d8oyw.png" height="50px"><br>
-    <br>
-    <img src="https://files.catbox.moe/qbnetm.png" height="50px"><br>
-    <br>
-    <img src="https://files.catbox.moe/dmr1gk.png" height="75px"><br>
-    <br>
-    <img src="https://files.catbox.moe/226sjw.png" height="175px"><br>
-    <br>
-    <img src="https://files.catbox.moe/r8o7qv.png" height="110px"><br>
-    <br>
-    <img src="https://files.catbox.moe/rybydb.png" height="85px"><br>
-    <br>
+    <a href="https://rentry.co/rottingpvppy"><img src="https://files.catbox.moe/e54v1f.png" height="25px"></a>⠀⠀⠀<a href="https://rottingpvppy.atabook.org/"><img src="https://files.catbox.moe/b9a8vh.png" height="25px"></a><br>
+  </div>
+  <div>
+    my name is <b>lucas</b> i am 16<br>
+    dni if you can't handle real freaks!
   </div>
   <br>
   <div>
