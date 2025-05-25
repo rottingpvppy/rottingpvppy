@@ -1,12 +1,13 @@
 <div align="center">
   <div>
-    <img src="https://komarev.com/ghpvc/?username=pawesum&label=profile+views&color=907952"><br>
+    <img src="https://komarev.com/ghpvc/?username=pawesum&label=profile+views&color=3f5d6a"><br>
     <br>
-    <a href="https://rentry.co/rottingpvppy"><img src="https://files.catbox.moe/e54v1f.png" height="25px"></a>⠀⠀⠀<a href="https://rottingpvppy.atabook.org/"><img src="https://files.catbox.moe/b9a8vh.png" height="25px"></a><br>
+    <a href="https://rentry.co/rottingpvppy"><img src="https://files.catbox.moe/lxu62g.png" height="25px"></a>⠀⠀⠀<a href="https://rottingpvppy.atabook.org/"><img src="https://files.catbox.moe/qu500k.png" height="25px"></a><br>
   </div>
   <div>
-    my name is <b>lucas</b> i am 16<br>
-    dni if you can't handle real freaks!
+    my name is lucas i am 16<br>
+    dni if you can't handle real freaks!<br>
+    read rentry for information thank you
   </div>
   <br>
   <div>
