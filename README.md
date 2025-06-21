@@ -1,14 +1,17 @@
 <div align="center">
   <div>
-    <img src="https://komarev.com/ghpvc/?username=pawesum&label=profile+views&color=3f5d6a"><br>
+    <img src="https://komarev.com/ghpvc/?username=pawesum&label=profile+views&color=000000"><br>
     <br>
-    <a href="https://rentry.co/rottingpvppy"><img src="https://files.catbox.moe/lxu62g.png" height="25px"></a>⠀⠀⠀<a href="https://rottingpvppy.atabook.org/"><img src="https://files.catbox.moe/qu500k.png" height="25px"></a><br>
+    <a href="https://rentry.co/rottingpvppy"><img src="https://files.catbox.moe/z6vv4y.png" height="26px"></a>⠀⠀⠀<a href="https://rottingpvppy.atabook.org/"><img src="https://files.catbox.moe/ttwzl3.png" height="21px"></a><br>
   </div>
   <div>
-    my name is lucas i am 16<br>
-    always able to c + h ^__^<br>
-    dni if you can't handle real freaks!<br>
-    read rentry for information thank you
+    hi! my name is maxwell<br>
+    read rentry for basic info, please<br>
+    i'm a REAL freak. be aware<br>
+    always interact with caution<br>
+    i'm VERY bad at socializing<br>
+    but i try to be friendly and nice!<br>
+    cuddles & hides always welcome!
   </div>
   <br>
   <div>
